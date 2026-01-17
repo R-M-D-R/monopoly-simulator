@@ -4,6 +4,8 @@ Which Monopoly properties are the best to purchase?
 
 This project uses Monte Carlo simulation to model millions of turns of the board game Monopoly under official rules in order to analyze landing probabilities and property value. The simulator tracks player movement, jail mechanics, and doubles to determine which spaces are visited most frequently and how game rules affect strategy.
 
+![Landing Probability](images/monopoly-heat-map.png)
+
 The goal is to provide a data-driven view of Monopoly: instead of relying on intuition, we estimate which properties generate the most traffic and therefore the most potential rent.
 
 ## Motivation
